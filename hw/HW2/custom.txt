@@ -1,0 +1,5 @@
+Star Player    Team          Goals    Assists   Penalties
+Ryan_Haggerty  Rensselaer        3          6           3
+Greg_Miller    Cornell           2          4           0
+Andrew_Miller  Yale              1          4           0
+T.J._Moor      Clarkson          2          2           3

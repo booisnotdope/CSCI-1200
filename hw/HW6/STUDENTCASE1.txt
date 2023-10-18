@@ -1,0 +1,8 @@
+4 4 
++ dogs
++ sits
++ cats
++ dada
+- dig
+- id
+- aa
